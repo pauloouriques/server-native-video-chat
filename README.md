@@ -34,11 +34,11 @@ Use Git to clone server-native-video-chat's source code to your local machine.
 $ git clone git@github.com:pauloouriques/server-native-video-chat.git
 ```
 
-Add you heroku app remote to our repository
+Add your heroku app remote to our repository
 
 ```sh
 $ cd server-native-video-chat
-$ heroku git:remote -a server-native-video-chat
+$ heroku git:remote -a your-heroku-app-name
 ```
 
 #### Deploy your changes
