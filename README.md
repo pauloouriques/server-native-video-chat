@@ -13,7 +13,7 @@ $ npm install -d
 $ node bin/www
 ```
 
-## Deploy on Heroku
+## Deploy to Heroku
 
 In order to publish our server and get a public HTTPS (riquired by WebRTC)
 URL we recommend to use [Heroku](https://heroku.com/):
