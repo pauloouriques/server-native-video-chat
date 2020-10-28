@@ -1,4 +1,4 @@
-Native Video Chat Signaling server
+Native Video Chat Signaling Server
 ==================================
 
 ## Installation
